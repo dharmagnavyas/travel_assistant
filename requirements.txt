@@ -1,0 +1,13 @@
+numpy==1.22.4
+pandas==1.4.2
+python-dotenv==0.21.0
+requests==2.27.1
+sqlite3==3.36.0
+langchain-core==0.0.1
+langchain-openai==0.0.1
+langchain-community==0.0.1
+typing-extensions==4.1.1
+typing-annotations==0.1.0
+pytz==2022.1
+IPython==8.2.0
+uuid==1.30
